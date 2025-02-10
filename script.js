@@ -6,7 +6,7 @@ const yesButton = document.querySelector(".btn--yes");
 const noButton = document.querySelector(".btn--no");
 const catImg = document.querySelector(".cat-img");
 
-const MAX_IMAGES = 5;
+const MAX_IMAGES = 11;
 
 let play = true;
 let noCount = 0;
@@ -47,7 +47,12 @@ function generateMessage(noCount) {
     "Chels please",
     "Dont Pmo rn",
     "Please I'm Your Bitch",
-    "Please Bash Me More",
+    "Please Bash Me More"
+    "Mums im mad now" 
+    "Bro im on my knees"
+    "Lad come have a crack room 309"
+    "Virtues Crime Family Member"
+    "My Quarter Zip Makes Me royalty,
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
