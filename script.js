@@ -47,12 +47,12 @@ function generateMessage(noCount) {
     "Chels please",
     "Dont Pmo rn",
     "Please I'm Your Bitch",
-    "Please Bash Me More"
-    "Mums im mad now" 
-    "Bro im on my knees"
-    "Lad come have a crack room 309"
-    "Virtues Crime Family Member"
-    "My Quarter Zip Makes Me royalty,
+    "Please Bash Me More",
+    "Mums im mad now",
+    "Bro im on my knees",
+    "Lad come have a crack room 309",
+    "Virtues Crime Family Member",
+    "My Quarter Zip Makes Me royalty",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
